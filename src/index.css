@@ -4,7 +4,7 @@
 
 
 :root {
-  --bg-color: #fef6ec;
+  --bg-color: #f6f5f8;
   --nav-bg-color: #ffffff;
   --footer-bg-color: #ffffff;
 
@@ -13,9 +13,9 @@
   --text-muted-strong: #374151;
 
   --text-color-btn-yellow: #f5f5f5;
-  --primary-color-btn-yellow: #ff9c00;
+  --primary-color-btn-yellow: #6C63FF;
 
-  --primary-color: #ff9c00;
+  --primary-color: #6C63FF;
 }
 
 .dark {
@@ -28,9 +28,9 @@
   --text-muted-strong: #d1d5db;
 
   --text-color-btn-yellow: #f5f5f5;
-  --primary-color-btn-yellow: #ff9c00;
+  --primary-color-btn-yellow: #6C63FF;
 
-  --primary-color: #ff9c00;
+  --primary-color: #6C63FF;
 }
 
 body {
