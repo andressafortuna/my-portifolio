@@ -14,7 +14,7 @@ const Contact = forwardRef<HTMLDivElement>((_, ref) => {
   };
 
   return (
-    <section ref={ref} className="min-h-screen pt-40 flex items-center">
+    <section ref={ref} className="min-h-screen pt-32 flex items-center">
       <div className="container mx-auto px-4 flex flex-col md:flex-row items-center justify-between gap-8">
         <div className="flex-1 flex justify-center">
           <img

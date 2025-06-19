@@ -79,7 +79,7 @@ export default function Home() {
                     onScrollToContact={() => scrollToSection(contactRef, "contact")}
                     isDark={isDark}
                 />
-                <main className="space-y-32 px-6 py-10 pt-32">
+                <main className="space-y-32 px-6 py-10 ">
                     <About ref={aboutRef} />
                     <Experience ref={workRef} />
                     <Contact ref={contactRef} />
