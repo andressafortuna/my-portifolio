@@ -1,5 +1,6 @@
 import { MdOutlineLanguage, MdOutlineLightMode, MdOutlineNightlight } from "react-icons/md";
 import { useLanguage } from "../contexts/LanguageContext";
+import DecryptedText from './DecryptedText';
 
 interface HeaderProps {
   onToggleLanguage: () => void;
@@ -24,8 +25,13 @@ export default function Header({
 
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 flex flex-col sm:flex-row items-center justify-between p-4 shadow bg-[var(--nav-bg-color)]">
-      <h2 className="hidden sm:block text-base sm:text-base md:text-base lg:text-lg font-bold mb-4 sm:mb-0">{t.header.logo}</h2>
-
+      <h2 className="hidden sm:block text-base sm:text-base md:text-base lg:text-lg font-bold mb-4 sm:mb-0">
+        <DecryptedText
+          text={t.header.logo}
+          animateOn="view"
+          revealDirection="start"
+        />
+      </h2>
       <div className="flex flex-wrap justify-center items-center gap-2 sm:gap-4">
         <button onClick={onToggleLanguage} className="hover:text-[var(--primary-color)]">
           <MdOutlineLanguage className="w-6 h-6" />

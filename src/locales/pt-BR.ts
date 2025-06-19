@@ -14,9 +14,9 @@ export const pt = {
     },
     experience: {
         title: "Experiência",
-        text: "Ao longo da minha jornada profissional, tive a oportunidade de trabalhar com uma ampla gama de tecnologias e frameworks. Minha experiência abrange desde desenvolvimento frontend com frameworks JavaScript modernos até desenvolvimento backend com tecnologias robustas do lado do servidor. Colaborei em diversos projetos que fortaleceram minhas habilidades em gerenciamento de banco de dados, controle de versão e tecnologias em nuvem.",
+        text: "Ao longo da minha jornada profissional, tive a oportunidade de trabalhar com uma ampla gama de tecnologias e frameworks. Minha experiência abrange desde desenvolvimento frontend com frameworks modernos até desenvolvimento backend com tecnologias robustas do lado do servidor. Colaborei em diversos projetos que fortaleceram minhas habilidades em gerenciamento de banco de dados, controle de versão e tecnologias em nuvem.",
         subtitle: "Tecnologias & Ferramentas",
-        description: "Estas são as principais tecnologias e ferramentas com as quais trabalhei ao longo da minha carreira, cada uma contribuindo para o meu crescimento como desenvolvedora full-stack."
+        description: "Estas são as principais tecnologias e ferramentas com as quais trabalhei ao longo da minha carreira, cada uma contribuindo para o meu crescimento."
     },
     contact: {
         title: "Vamos nos Conectar!",

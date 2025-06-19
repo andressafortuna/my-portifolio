@@ -46,7 +46,7 @@ const Experience = forwardRef<HTMLDivElement>((_, ref) => {
         <p className="text-lg leading-relaxed text-center mb-4" style={{ color: "var(--text-muted)" }}>
           {t.experience.text}
         </p>
-        <p className="text-sm mb-4 text-center" style={{ color: "var(--text-muted)" }}>
+        <p className="text-base mb-4 text-center" style={{ color: "var(--text-muted)" }}>
           {t.experience.description}
         </p>
         <div

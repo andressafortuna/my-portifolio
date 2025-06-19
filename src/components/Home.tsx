@@ -6,6 +6,7 @@ import Experience from "./Experience";
 import Contact from "./Contact";
 import Footer from "./Footer";
 import { useLanguage } from "../contexts/LanguageContext";
+import { Section } from "./Section";
 
 export default function Home() {
     const { language, setLanguage } = useLanguage();
@@ -80,9 +81,17 @@ export default function Home() {
                     isDark={isDark}
                 />
                 <main className="space-y-32 px-6 py-10 ">
-                    <About ref={aboutRef} />
-                    <Experience ref={workRef} />
-                    <Contact ref={contactRef} />
+                    <Section refValue={aboutRef}>
+                        <About />
+                    </Section>
+
+                    <Section refValue={workRef}>
+                        <Experience />
+                    </Section>
+
+                    <Section refValue={contactRef}>
+                        <Contact />
+                    </Section>
                 </main>
                 <Footer />
             </div>

@@ -14,9 +14,9 @@ export const en = {
     },
     experience: {
         title: "Experience",
-        text: "Throughout my professional journey, I've had the opportunity to work with a diverse range of technologies and frameworks. My experience spans from frontend development with modern JavaScript frameworks to backend development with robust server-side technologies. I've collaborated on various projects that have strengthened my skills in database management, version control, and cloud technologies.",
+        text: "Throughout my professional journey, I've had the opportunity to work with a diverse range of technologies and frameworks. My experience spans from frontend development with modern frameworks to backend development with robust server-side technologies. I've collaborated on various projects that have strengthened my skills in database management, version control, and cloud technologies.",
         subtitle: "Technologies & Tools",
-        description: "These are the main technologies and tools I've worked with throughout my career, each contributing to my growth as a full-stack developer."
+        description: "These are the main technologies and tools I've worked with throughout my career, each contributing to my growth."
     },
     contact: {
         title: "Let's Connect!",
