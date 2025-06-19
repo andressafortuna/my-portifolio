@@ -1,6 +1,6 @@
 import { MdOutlineLanguage, MdOutlineLightMode, MdOutlineNightlight } from "react-icons/md";
 import { useLanguage } from "../contexts/LanguageContext";
-import DecryptedText from './DecryptedText';
+import DecryptedText from '../components/DecryptedText';
 
 interface HeaderProps {
   onToggleLanguage: () => void;

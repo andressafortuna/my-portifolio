@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { BrowserRouter, Navigate, Route, Routes, useParams } from "react-router-dom";
 import { LanguageProvider, useLanguage } from "./contexts/LanguageContext";
-import Home from "./components/Home";
+import Home from "./sections/Home";
 
 export default function App() {
   return (

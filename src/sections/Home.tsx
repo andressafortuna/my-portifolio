@@ -6,7 +6,7 @@ import Experience from "./Experience";
 import Contact from "./Contact";
 import Footer from "./Footer";
 import { useLanguage } from "../contexts/LanguageContext";
-import { Section } from "./Section";
+import { Section } from "../components/Section";
 
 export default function Home() {
     const { language, setLanguage } = useLanguage();

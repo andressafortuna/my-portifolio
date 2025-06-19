@@ -1,7 +1,7 @@
 import { useRef, forwardRef } from "react";
 import { useLanguage } from "../contexts/LanguageContext";
 import devFocusImage from "../assets/undraw_dev.svg";
-import VariableProximity from './VariableProximity';
+import VariableProximity from '../components/VariableProximity';
 
 const About = forwardRef<HTMLDivElement>((_, ref) => {
   const { t } = useLanguage();
