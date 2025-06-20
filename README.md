@@ -35,7 +35,7 @@ npm install
 ```bash 
 npm run dev
 ```
-O projeto estará disponível em:
+O projeto estará disponível em:  
 👉 http://localhost:5173
 
 ## 🌐 Deploy
