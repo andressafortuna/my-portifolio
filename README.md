@@ -40,7 +40,7 @@ O projeto estará disponível em:
 
 ## 🌐 Deploy
 
-Este projeto está hospedado na Vercel e pode ser acessado em:
+Este projeto está hospedado na Vercel e pode ser acessado em:  
 👉 https://andressa-dev.vercel.app/
 
 ## 🗺️ Funcionalidades
@@ -56,6 +56,6 @@ Este projeto está hospedado na Vercel e pode ser acessado em:
  - 🌙 Suporte a tema claro/escuro 
 
 ## 🤝 Contato
-Se quiser conversar ou colaborar, me chame!
-📧 andressafortuna1@gmail.com
+Se quiser conversar ou colaborar, me chame!  
+📧 andressafortuna1@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/andressafortuna/)
