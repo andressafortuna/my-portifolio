@@ -24,6 +24,6 @@ export const pt = {
         textSub: "Vamos criar algo incrível juntos!",
     },
     footer: {
-        text: "Site desenvolvido por Andressa Fortuna",
+        text: "Desenvolvido por Andressa Fortuna",
     }
 };

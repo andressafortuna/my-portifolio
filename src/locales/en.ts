@@ -24,6 +24,6 @@ export const en = {
         textSub: "Let's create something amazing together!",
     },
     footer: {
-        text: "Site developed by Andressa Fortuna",
+        text: "Developed by Andressa Fortuna",
     }
 };
