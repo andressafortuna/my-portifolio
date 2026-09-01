@@ -10,7 +10,7 @@ export const pt = {
     home: {
         hello: "Olá,",
         helloSub: "Eu sou a Andressa!",
-        intro: "Desenvolvedora Full Stack com mais de 2 anos de experiência na criação de soluções digitais. Apaixonada por transformar ideias em experiências intuitivas e funcionais, entregando valor e qualidade em cada projeto. Tenho perfil colaborativo, foco na melhoria contínua e compromisso com resultados de alto impacto.",
+        intro: "Desenvolvedora Full Stack com mais de 3 anos de experiência na criação de soluções digitais. Apaixonada por transformar ideias em experiências intuitivas e funcionais, entregando valor e qualidade em cada projeto. Tenho perfil colaborativo, foco na melhoria contínua e compromisso com resultados de alto impacto.",
     },
     experience: {
         title: "Experiência",
