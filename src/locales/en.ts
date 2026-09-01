@@ -10,7 +10,7 @@ export const en = {
     home: {
         hello: "Hello,",
         helloSub: "I'm Andressa!",
-        intro: "Full Stack Developer with over 2 years of experience building digital solutions. Passionate about turning ideas into intuitive and functional experiences, delivering value and quality in every project. I have a collaborative mindset, focus on continuous improvement, and a strong commitment to impactful results.",
+        intro: "Full Stack Developer with over 3 years of experience building digital solutions. Passionate about turning ideas into intuitive and functional experiences, delivering value and quality in every project. I have a collaborative mindset, focus on continuous improvement, and a strong commitment to impactful results.",
     },
     experience: {
         title: "Experience",
